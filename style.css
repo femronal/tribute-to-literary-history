@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body{
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-family: 'Lato', sans-serif;
+    line-height: 2.5rem;
+}
+
+header {
+    padding: 2rem;
+    background-color: rgb(31, 31, 31);
+}
+ol{
+    text-align: left;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#tribute-info {
+    background-color: rgb(31, 31, 31);
+    padding: 1rem;
+}
